@@ -32,7 +32,7 @@ Programmatically, the method `Generator::setVersion()` can be used to change the
 ## Installation (with [Composer](https://getcomposer.org))
 
 ```bash
-composer require zircote/swagger-php-trigger-error
+composer require master/swagger-php-trigger-error
 ```
 
 For cli usage from anywhere install swagger-php globally and make sure to place the `~/.composer/vendor/bin` directory in your PATH so the `openapi` executable can be located by your system.
